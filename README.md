@@ -1,5 +1,4 @@
-% M-OKA: An Efficient Overlapfree-Karatsuba Based Montgomery
-Multiplier for Cryptographic Hardware
+# M-OKA: An Efficient Overlapfree-Karatsuba Based Montgomery Multiplier for Cryptographic Hardware
 
 Montgomery Modular Multiplication (MMM) is one of the most
 widely employed modules in cryptographic hardware due to its
